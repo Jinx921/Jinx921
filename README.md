@@ -8,7 +8,7 @@
 
 ### Highlights
 
-- [**HCLT 2026 논문**](https://github.com/Jinx921/hyejin-portfolio/blob/main/projects/02-aivqa.md) · 공동 제1저자 · 발표 - 3B 모델 + 멀티모달 RAG로 33B 모델 성능을 넘김
+- **HCLT 2026 논문** · 공동 제1저자 · 발표 - 3B 모델 + 멀티모달 RAG로 33B 모델 성능을 넘김
 - **2026 빅콘테스트** - 답변을 코드로 검증하는 고립 위험 탐지 AI 에이전트
 - **LG Aimers 9기** · 상위 8% - 최종 제출 모델 계보 구축, 사후 보정 · 제출 판정 기준 설계
 
