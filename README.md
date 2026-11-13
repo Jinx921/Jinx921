@@ -1,6 +1,8 @@
 ## 곽혜진 · AI / Data
 
-[**Portfolio**](https://github.com/Jinx921/hyejin-portfolio)
+
+
+[**Portfolio**](https://github.com/Jinx921/Portfolio)
 
 데이터에서 문제를 정의하고, 멀티모달 AI와 LLM으로 **사람이 믿고 쓸 수 있는 답**을 만듭니다.
 
@@ -18,12 +20,12 @@
 
 | 프로젝트 | 한 줄 요약 | 결과 |
 |---|---|---|
-| [**동네 돌봄 지도**](https://github.com/Jinx921/hyejin-portfolio/blob/main/projects/01-social-isolation-agent.md) | 고립 위험 동네를 찾고 근거가 검증된 답만 보여 주는 AI 에이전트 | 춘천 7,393칸 → 55칸 |
-| [**AIVQA**](https://github.com/Jinx921/hyejin-portfolio/blob/main/projects/02-aivqa.md) | 이미지 속 글자 · 외형으로 지식을 찾는 한국문화 멀티모달 RAG | 43.14 → 47.40 |
-| [**LG Aimers 9기**](https://github.com/Jinx921/hyejin-portfolio/blob/main/projects/03-lg-aimers.md) | 투구 제구 성공 확률 예측, 사후 보정과 제출 판정 기준 | Private 1151.0 · 상위 8% |
-| [**SNU AI Challenge**](https://github.com/Jinx921/hyejin-portfolio/blob/main/projects/04-snu-ai-challenge.md) | Qwen3-VL-8B로 뒤섞인 이미지 4장의 시간순서 복원 | 최종 0.81300 |
+| [**동네 돌봄 지도**](https://github.com/Jinx921/Portfolio/blob/main/projects/01-social-isolation-agent.md) | 고립 위험 동네를 찾고 근거가 검증된 답만 보여 주는 AI 에이전트 | 춘천 7,393칸 → 55칸 |
+| [**AIVQA**](https://github.com/Jinx921/Portfolio/blob/main/projects/02-aivqa.md) | 이미지 속 글자 · 외형으로 지식을 찾는 한국문화 멀티모달 RAG | 43.14 → 47.40 |
+| [**LG Aimers 9기**](https://github.com/Jinx921/Portfolio/blob/main/projects/03-lg-aimers.md) | 투구 제구 성공 확률 예측, 사후 보정과 제출 판정 기준 | Private 1151.0 · 상위 8% |
+| [**SNU AI Challenge**](https://github.com/Jinx921/Portfolio/blob/main/projects/04-snu-ai-challenge.md) | Qwen3-VL-8B로 뒤섞인 이미지 4장의 시간순서 복원 | 최종 0.81300 |
 
-→ 전체 10개 프로젝트는 [**Portfolio**](https://github.com/Jinx921/hyejin-portfolio)에서 볼 수 있습니다.
+→ 전체 10개 프로젝트는 [**Portfolio**](https://github.com/Jinx921/Portfolio)에서 볼 수 있습니다.
 
 <br>
 
